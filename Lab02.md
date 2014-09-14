@@ -1,4 +1,4 @@
-* Variant 3 Tseitlin
+* Variant 3 Tseitlin Puzanova
 
 * Variant 4 Hotynyuk Kostyukov
 
@@ -10,7 +10,7 @@
 
 * Variant 8 Kolbasuk
 
-* Variant 9 Puzanova
+* Variant 9
 
 * Variant 10
 
