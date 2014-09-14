@@ -1,6 +1,6 @@
-* Variant 3 Tseitlin Zhuravskaya
+* Variant 3 Tseitlin
 
-* Variant 4 Hotynyuk Kostyukov Smolskaya
+* Variant 4 Hotynyuk Kostyukov
 
 * Variant 5 Sirotko Fomich
 
