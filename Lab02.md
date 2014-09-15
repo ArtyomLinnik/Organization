@@ -6,9 +6,9 @@
 
 * Variant 6 Grinchenko Linnik
 
-* Variant 7 Leonchik Grabun
+* Variant 7 Leonchik
 
-* Variant 8 Kolbasuk
+* Variant 8 Kolbasuk Grabun
 
 * Variant 9
 
