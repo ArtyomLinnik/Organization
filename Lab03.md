@@ -20,7 +20,7 @@
 
 * Variant 11
 
-* Variant 12
+* Variant 12 Puzanova
 
 * Variant 13
 
