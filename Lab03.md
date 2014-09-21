@@ -8,7 +8,7 @@
 
 * Variant 5 
 
-* Variant 6
+* Variant 6 Hotynyuk
 
 * Variant 7 Tseitlin
 
